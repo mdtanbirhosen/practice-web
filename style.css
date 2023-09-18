@@ -1,0 +1,75 @@
+body{
+    background-color: antiquewhite;
+}
+ul,li{list-style: none;
+    padding: 0;
+    margin: 0;
+
+}
+header{
+    background-color: #F85559;
+    border-radius: 600px;
+    padding:32px 50px 30px 60px;
+    display: flex;
+    /* gap: 90px; */
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 56px;
+}
+.foot{
+    display: flex;
+    gap: 30px;
+
+}
+li{
+    color: beige;
+    font-size: 18px;
+
+}
+
+input{
+    border: none;
+    border-radius: 50px;
+    padding: 16px 30px;
+}
+.fruit{
+    text-align: center;
+    color: #F85559;
+}
+
+.logo{
+    text-align: center;
+}
+footer{
+
+    
+    background-color: black;
+    padding:60px 30px ;
+   
+    gap: 60px;
+    align-items: center;
+ }
+.abc{
+    display:flex;
+    gap: 60px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+    
+
+   
+
+}
+.logos{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+    
+}
+.footer-image{
+    
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+}
